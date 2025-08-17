@@ -253,7 +253,7 @@ export default function AdministradorDashboard() {
     <div className="flex flex-col min-h-screen bg-gray-50">
       <header className="flex h-20 shrink-0 items-center gap-4 border-b bg-white px-6 shadow-sm">
         <div className="flex-1">
-          <h1 className="text-3xl font-bold text-gray-900">Administração</h1>
+          <h1 className="text-3xl font-bold text-gray-900">LÍCITO</h1>
           <p className="text-lg text-gray-600 font-medium">
             Gerencie todos os usuários do sistema
           </p>
